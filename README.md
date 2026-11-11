@@ -13,9 +13,9 @@ plan pays for the thinking; BillDrop only pays for hosting.
 
 | | |
 |---|---|
-| Live app | `https://<your-deployment>.vercel.app` |
+| Live app | https://billdrop-eta.vercel.app |
 | Demo login | `demo@billdrop.app` / `billdrop-demo` (or click **Try the live demo**) |
-| Demo MCP URL | `https://<your-deployment>.vercel.app/api/mcp/<DEMO_MCP_TOKEN>` |
+| Demo MCP URL | Shared privately in the submission email, and shown on the **Connect Claude** page after logging in |
 
 ### Connect it to Claude (2 minutes)
 
